@@ -111,7 +111,7 @@ Material:
     - _Smoothness_Factor: 0.389
     - _Tiling: 1
     m_Colors:
-    - _BaseColor: {r: 0.19479235, g: 0.8396226, b: 0, a: 1}
+    - _BaseColor: {r: 0.22698589, g: 0.5169811, b: 0.13948734, a: 1}
     - _Local_Correction_Offset: {r: 0, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1

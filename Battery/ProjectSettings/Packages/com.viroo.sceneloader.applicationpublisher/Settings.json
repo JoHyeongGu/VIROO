@@ -2,9 +2,9 @@
     "m_Dictionary": {
         "m_DictionaryValues": [
             {
-                "type": "Viroo.SceneLoader.ApplicationPublisher.Editor.ApplicationSceneBuilderItemData[], Viroo.SceneLoader.ApplicationPublisher.Editor, Version=3.0.522.0, Culture=neutral, PublicKeyToken=null",
+                "type": "Viroo.SceneLoader.ApplicationPublisher.Editor.ApplicationSceneBuilderItemData[], Viroo.SceneLoader.ApplicationPublisher.Editor, Version=3.1.160.0, Culture=neutral, PublicKeyToken=null",
                 "key": "items",
-                "value": "{\"m_Value\":[{\"identifier\":\"d85438c3-0e48-47eb-9789-c847e81a9551\",\"title\":\"Battery\",\"thumbnail\":{\"instanceID\":0},\"sceneAsset\":{\"fileID\":102900000,\"guid\":\"852b15ecf5a7cbd459542563e5f1ef9d\",\"type\":3},\"enabled\":true}]}"
+                "value": "{\"m_Value\":[{\"identifier\":\"d85438c3-0e48-47eb-9789-c847e81a9551\",\"title\":\"Battery\",\"thumbnail\":{\"instanceID\":0},\"sceneAsset\":{\"fileID\":102900000,\"guid\":\"852b15ecf5a7cbd459542563e5f1ef9d\",\"type\":3},\"enabled\":true},{\"identifier\":\"6c094dd3-8ef2-45b5-8dab-4c9cbd03aa40\",\"title\":\"Lab\",\"thumbnail\":{\"instanceID\":0},\"sceneAsset\":{\"fileID\":102900000,\"guid\":\"fd1bcdcfcb221534bb9babc8f9fab431\",\"type\":3},\"enabled\":false}]}"
             },
             {
                 "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
